@@ -18,9 +18,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-################################
-
-How to Run
+## How to Run
 
 cd backend
 source .venv/bin/activate
@@ -29,4 +27,3 @@ python manage.py runserver 8000
 cd frontend
 npm run dev
 
-################################
