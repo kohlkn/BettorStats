@@ -19,11 +19,11 @@ python manage.py runserver
 ```
 
 ## How to Run
-
+```bash
 cd backend
 source .venv/bin/activate
 python manage.py runserver 8000
 
 cd frontend
 npm run dev
-
+```
